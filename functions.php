@@ -9,7 +9,7 @@
     if ($connection->connect_error) die("critical error");
     function createTable($name, $query)
     {
-        queryMysql("CREATE TABOE IF NOT EXIST $name($query)");
+        queryMysql("CREATE TABLE IF NOT EXIST $name($query)");
         echo "Table '$name' has been created or already exists.<br>";
     }
     function queryMysql($query)
