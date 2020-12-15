@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e23dc4a1-8018-403c-876d-bf34da07641a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="LinuxKyrios" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="SocialPage" />
   </component>
   <component name="ProjectId" id="1liAgSreXwAwbQRh7qWxXcUqVTO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,7 +31,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,7 +44,8 @@
       <option name="presentableId" value="Default" />
       <updated>1608069652515</updated>
       <workItem from="1608069654006" duration="407000" />
-      <workItem from="1608070078531" duration="3426000" />
+      <workItem from="1608070078531" duration="3482000" />
+      <workItem from="1608074092543" duration="197000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608070470465</created>
@@ -52,15 +61,34 @@
       <option name="project" value="LOCAL" />
       <updated>1608073753774</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created functions.php file, which contains definitions fo all project functions; typo improved">
+      <created>1608073799817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608073799817</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Created functions.php file, which contains definitions fo all project functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created functions.php file, which contains definitions fo all project functions" />
+    <MESSAGE value="Created functions.php file, which contains definitions fo all project functions; typo improved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created functions.php file, which contains definitions fo all project functions; typo improved" />
   </component>
 </project>
