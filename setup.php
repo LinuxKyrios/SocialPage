@@ -1,4 +1,4 @@
-//It is necessaty to open this file before reference to other pages, otherwise, you will receive huge amount of MySQL errors
+//It is necessary to open this file before reference to other pages, otherwise, you will receive huge amount of MySQL errors
 <!doctype html>
 <html lang="en">
 <head>
