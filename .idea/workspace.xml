@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e23dc4a1-8018-403c-876d-bf34da07641a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/setup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <workItem from="1608069654006" duration="407000" />
       <workItem from="1608070078531" duration="3482000" />
       <workItem from="1608074092543" duration="923000" />
-      <workItem from="1608157083280" duration="2939000" />
+      <workItem from="1608157083280" duration="3866000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608070470465</created>
@@ -82,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608159393039</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Created setup.php with MySQL basic configuration">
+      <created>1608160308592</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608160308592</updated>
+    </task>
+    <task id="LOCAL-00007" summary="typo in comment improved">
+      <created>1608160336141</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608160336141</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +121,8 @@
     <MESSAGE value="Created functions.php file, which contains definitions fo all project functions; typo improved" />
     <MESSAGE value="typo improved" />
     <MESSAGE value="Created header.php file with work content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created header.php file with work content" />
+    <MESSAGE value="Created setup.php with MySQL basic configuration" />
+    <MESSAGE value="typo in comment improved" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo in comment improved" />
   </component>
 </project>
